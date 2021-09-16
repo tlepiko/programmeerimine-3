@@ -1,0 +1,16 @@
+C:\Users\Taavi\Desktop\programmeerimine-3\1.Kodune\3\obj\Debug\net5.0\3.csprojAssemblyReference.cache
+C:\Users\Taavi\Desktop\programmeerimine-3\1.Kodune\3\obj\Debug\net5.0\3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taavi\Desktop\programmeerimine-3\1.Kodune\3\obj\Debug\net5.0\3.AssemblyInfoInputs.cache
+C:\Users\Taavi\Desktop\programmeerimine-3\1.Kodune\3\obj\Debug\net5.0\3.AssemblyInfo.cs
+C:\Users\Taavi\Desktop\programmeerimine-3\1.Kodune\3\obj\Debug\net5.0\3.csproj.CoreCompileInputs.cache
+C:\Users\Taavi\Desktop\programmeerimine-3\1.Kodune\3\bin\Debug\net5.0\3.exe
+C:\Users\Taavi\Desktop\programmeerimine-3\1.Kodune\3\bin\Debug\net5.0\3.deps.json
+C:\Users\Taavi\Desktop\programmeerimine-3\1.Kodune\3\bin\Debug\net5.0\3.runtimeconfig.json
+C:\Users\Taavi\Desktop\programmeerimine-3\1.Kodune\3\bin\Debug\net5.0\3.runtimeconfig.dev.json
+C:\Users\Taavi\Desktop\programmeerimine-3\1.Kodune\3\bin\Debug\net5.0\3.dll
+C:\Users\Taavi\Desktop\programmeerimine-3\1.Kodune\3\bin\Debug\net5.0\ref\3.dll
+C:\Users\Taavi\Desktop\programmeerimine-3\1.Kodune\3\bin\Debug\net5.0\3.pdb
+C:\Users\Taavi\Desktop\programmeerimine-3\1.Kodune\3\obj\Debug\net5.0\3.dll
+C:\Users\Taavi\Desktop\programmeerimine-3\1.Kodune\3\obj\Debug\net5.0\ref\3.dll
+C:\Users\Taavi\Desktop\programmeerimine-3\1.Kodune\3\obj\Debug\net5.0\3.pdb
+C:\Users\Taavi\Desktop\programmeerimine-3\1.Kodune\3\obj\Debug\net5.0\3.genruntimeconfig.cache
