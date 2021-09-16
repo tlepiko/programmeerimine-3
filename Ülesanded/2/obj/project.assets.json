@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Taavi\\Desktop\\programmeerimine-3\\1.Kodune\\2\\2.csproj",
+      "projectUniqueName": "C:\\Users\\Taavi\\Desktop\\programmeerimine-3\\Ülesanded\\2\\2.csproj",
       "projectName": "2",
-      "projectPath": "C:\\Users\\Taavi\\Desktop\\programmeerimine-3\\1.Kodune\\2\\2.csproj",
+      "projectPath": "C:\\Users\\Taavi\\Desktop\\programmeerimine-3\\Ülesanded\\2\\2.csproj",
       "packagesPath": "C:\\Users\\Taavi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Taavi\\Desktop\\programmeerimine-3\\1.Kodune\\2\\obj\\",
+      "outputPath": "C:\\Users\\Taavi\\Desktop\\programmeerimine-3\\Ülesanded\\2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Taavi\\AppData\\Roaming\\NuGet\\NuGet.Config"
