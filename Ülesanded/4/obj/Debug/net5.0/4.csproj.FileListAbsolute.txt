@@ -1,0 +1,16 @@
+C:\Users\Taavi\Desktop\programmeerimine-3\Ülesanded\4\bin\Debug\net5.0\4.exe
+C:\Users\Taavi\Desktop\programmeerimine-3\Ülesanded\4\bin\Debug\net5.0\4.deps.json
+C:\Users\Taavi\Desktop\programmeerimine-3\Ülesanded\4\bin\Debug\net5.0\4.runtimeconfig.json
+C:\Users\Taavi\Desktop\programmeerimine-3\Ülesanded\4\bin\Debug\net5.0\4.runtimeconfig.dev.json
+C:\Users\Taavi\Desktop\programmeerimine-3\Ülesanded\4\bin\Debug\net5.0\4.dll
+C:\Users\Taavi\Desktop\programmeerimine-3\Ülesanded\4\bin\Debug\net5.0\ref\4.dll
+C:\Users\Taavi\Desktop\programmeerimine-3\Ülesanded\4\bin\Debug\net5.0\4.pdb
+C:\Users\Taavi\Desktop\programmeerimine-3\Ülesanded\4\obj\Debug\net5.0\4.csprojAssemblyReference.cache
+C:\Users\Taavi\Desktop\programmeerimine-3\Ülesanded\4\obj\Debug\net5.0\4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taavi\Desktop\programmeerimine-3\Ülesanded\4\obj\Debug\net5.0\4.AssemblyInfoInputs.cache
+C:\Users\Taavi\Desktop\programmeerimine-3\Ülesanded\4\obj\Debug\net5.0\4.AssemblyInfo.cs
+C:\Users\Taavi\Desktop\programmeerimine-3\Ülesanded\4\obj\Debug\net5.0\4.csproj.CoreCompileInputs.cache
+C:\Users\Taavi\Desktop\programmeerimine-3\Ülesanded\4\obj\Debug\net5.0\4.dll
+C:\Users\Taavi\Desktop\programmeerimine-3\Ülesanded\4\obj\Debug\net5.0\ref\4.dll
+C:\Users\Taavi\Desktop\programmeerimine-3\Ülesanded\4\obj\Debug\net5.0\4.pdb
+C:\Users\Taavi\Desktop\programmeerimine-3\Ülesanded\4\obj\Debug\net5.0\4.genruntimeconfig.cache
